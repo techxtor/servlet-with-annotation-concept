@@ -1,4 +1,4 @@
-*This is an extension of [servlet-context](https://github.com/techxtor/servlet-concept)*
+*This is an extension of [servlet-concept](https://github.com/techxtor/servlet-concept)*
 ---
  - Implemented using annotation
  `
